@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/hojjatjokar/built-in-js/issues"
   },
-  "homepage": "https://github.com/hojjatjokar/built-in-js#readme"
+  "homepage": "https://github.com/hojjatjokar/built-in-js#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.1",
+    "@commitlint/config-conventional": "^16.2.1",
+    "husky": "^7.0.0"
+  }
 }
