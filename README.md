@@ -1,18 +1,22 @@
 # Built in JavaScript
 
-Here you can search for built in JavaScript functions. 
+Here you can search for built in JavaScript functions.
 
 ## Scripts
-- [ ] npm run build
-- [ ] npm run test
+
+- [x] npm run build
+- [x] npm run test
 - [ ] npm run lint
-- [ ] npm run dev
+- [x] npm run dev
+- [x] npm run cypress:open
 
 ## TODO
+
 - [ ] Add search functionality
 - [ ] Add most used functions
 
 ## Contents
+
 - [ ] Array
 - [ ] Object
 - [ ] Map
@@ -25,3 +29,12 @@ Here you can search for built in JavaScript functions.
 - [ ] Math
 - [ ] RegExp
 - [ ] Symbol
+
+## Colors
+
+/_ CSS HEX _/
+--raisin-black: #302934ff;
+--old-burgundy: #463534ff;
+--candy-pink: #ED6969ff;
+--white: #FFFFFFff;
+--turquoise: #30D7C3ff;
