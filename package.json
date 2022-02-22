@@ -8,7 +8,8 @@
     "prepare": "husky install",
     "dev": "webpack serve --open --config build/webpack.dev.js",
     "build": "webpack --config build/webpack.prod.js",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "lint": "eslint --fix"
   },
   "repository": {
     "type": "git",

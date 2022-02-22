@@ -7,5 +7,6 @@
     "jsx": "react",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true
-  }
+  },
+  "include": ["src"]
 }

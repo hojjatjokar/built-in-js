@@ -6,7 +6,7 @@ Here you can search for built in JavaScript functions.
 
 - [x] npm run build
 - [x] npm run test
-- [ ] npm run lint
+- [x] npm run lint
 - [x] npm run dev
 - [x] npm run cypress:open
 
